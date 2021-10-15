@@ -1,5 +1,5 @@
 C++ Lesson
 ===========
 
-http://cpp-lang.sevendays-study.com/
+https://cpp-lang.sevendays-study.com/
 
